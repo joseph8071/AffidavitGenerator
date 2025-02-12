@@ -1,0 +1,8 @@
+streamlit==1.25.0
+python-docx==0.8.11
+docxtpl==0.16.6
+pypdf2==3.0.0
+docx2pdf==0.1.8
+pillow==11.0.0
+pywin32==308; platform_system == "Windows"
+pycryptodome
